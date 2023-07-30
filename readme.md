@@ -5,6 +5,10 @@
 ![Language Primary](https://img.shields.io/github/languages/top/davicruzof/test-frontend?style=for-the-badge)
 ![Npm version](https://img.shields.io/npm/v/node?style=for-the-badge)
 
+Preview 
+
+https://heroes-pearl.vercel.app/
+
 <img src="https://github.com/davicruzof/test-frontend/assets/47984117/0feac912-e12a-446c-bc9a-bf110a28c3a0" alt="imagem home">
 
 <img src="https://github.com/davicruzof/test-frontend/assets/47984117/6264673e-0e78-4ca3-bcda-ad9035c8590e" alt="imagem details">
