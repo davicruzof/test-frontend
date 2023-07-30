@@ -1,7 +1,7 @@
 # Meus Beats
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/davicruzof/test-frontend?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/testfront-end?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/test-frontend?style=for-the-badge)
 ![Language Primary](https://img.shields.io/github/languages/top/davicruzof/test-frontend?style=for-the-badge)
 ![Npm version](https://img.shields.io/npm/v/node?style=for-the-badge)
 
