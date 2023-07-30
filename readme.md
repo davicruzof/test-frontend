@@ -1,55 +1,62 @@
-# Teste Dinheirow
-Olá Dev! Tudo bem?
+# Meus Beats
 
-Nós estamos sempre em busca de profissionais interessantes e interessados, com boa capacidade de aprendizado, adaptação e principalmente bom senso! Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório realizá-lo completamente, queremos apenas reconhecer seu esforço e potencial para aprender, se adaptar e tomar decisões.
+![GitHub repo size](https://img.shields.io/github/repo-size/davicruzof/test-front-end?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/test-front-end?style=for-the-badge)
+![Language Primary](https://img.shields.io/github/languages/top/davicruzof/test-front-end?style=for-the-badge)
+![Npm version](https://img.shields.io/npm/v/node?style=for-the-badge)
 
-Vamos ao teste!
 
-## Desafio Marvel
-Crie um aplicativo front-end conectado ao back-end Marvel desenvolvido usando dados e rotas obtidos pela API oficial da Marvel Comics.
+![screencapture-localhost-3000-pages-Details-2023-07-30-11_40_55](https://github.com/davicruzof/test-frontend/assets/47984117/6264673e-0e78-4ca3-bcda-ad9035c8590e)
 
-API DOCS: https://developer.marvel.com/docs
+<img src="https://github.com/davicruzof/test-frontend/assets/47984117/0feac912-e12a-446c-bc9a-bf110a28c3a0" alt="exemplo imagem">
 
-### 💻 Requisitos
+> O projeto consiste no desenvolvimento de um ecommerce mobile de produtos fonográficos.
 
-- A aplicação deverá conter uma página inicial com uma listagem de personagens com paginação e deverá possuir um filtro que busca os dados pelo nome do personagem.
-- Ao clicar em um personagem deverá ser exibida a página do personagem com detalhes (nome, descrição e as fotos dos quadrinhos)
-- Na página do personagem deverá conter um botão que volta para página inicial de listagem dos personangens
-- Ao voltar para a página da listagem dos personagens o filtro que busca o nome dos dados e a página da listagem deverão ser o mesmo que estavam antes do usuário entrar na página de detalhes do personagem.
-- caso o personagem não tenha foto deverá ser colocada uma foto do lotipo da Marvel.
-(atenção: não será permitido colocar essa validação nos componentes visuais)
-- caso o personagem não tenha descrição exbir o texto "descrição não informada". 
-(atenção: não será permitido colocar essa validação nos componentes visuais)
+## 💻 Pré-requisitos
 
-### Critérios de avaliação
-Além dos requisitos levantados acima, iremos avaliar os seguintes critérios:
-  - gerenciamento de estado
-  - componentização
-  - responsividade
-  - testes
-  - Ui design
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente do `node`
+* Você instalou a versão mais recente do `react-native`
 
-### Tecnologias Obrigatórias
- - NextJs
- - Typescript
- - tailwind css
+<!---
+## 🚀 Instalando Meus Beats
 
-### Tecnologias opcionais 
- - redux,
- - react query,
- - redux tookit
- - jest
- - testing library
+Linux e macOS:
+```
+<comando_de_instalação>
+```
+--->
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-### Difencial
- - Ui design agradável
- - conhecimento de Atomic Design 
- - conhecimento de clean archtecture
- - testes automatizados
+## 📫 Contribuindo para meus beats
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com <nome_do_projeto>, siga estas etapas:
 
-### Por onde começo?
-Primeiramente, você pode fazer um fork desse repositório aqui, para sua conta do Github, depois disso crie uma branch nova com o seu nome (ex: nome_sobrenome), para podermos indentificá-lo.
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin meusbeats`
+5. Crie a solicitação de pull request.
 
-Após terminar o desafio, você pode solicitar um pull request para a branch master do nosso repositório. Vamos receber e fazer a avaliação de todos.
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Boa sorte! :)
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/47984117?v=4" width="100px;" alt="Foto do Davi de jesus cruz no GitHub"/><br>
+        <sub>
+          <b>Davi de jesus cruz</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## 😄 Seja um dos contribuidores<br>
