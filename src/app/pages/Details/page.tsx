@@ -1,7 +1,7 @@
 "use client";
 import React, { useContext, useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
-import { getComicsByCharacterId } from "@/services/marvel/marvel";
+import { getComicsByCharacterId } from "@/services/marvel";
 import { useMutation } from "react-query";
 import { ResponseComics } from "@/services/marvel/types";
 import { Loading } from "@/components/Loading";
@@ -16,7 +16,7 @@ export default function Details() {
   const [comics, setComics] = useState<ResponseComics | null>(null);
   const searchParams = useSearchParams();
 
-  const search = searchParams.get("id");
+  const search = searchParams?.get("id");
 
   const { mutate: MutateGetCharacterById, isLoading } = useMutation({
     mutationFn: (id: number) => getComicsByCharacterId(id),
@@ -26,7 +26,7 @@ export default function Details() {
   });
 
   useEffect(() => {
-    MutateGetCharacterById(+search!);
+    search && MutateGetCharacterById(+search!);
   }, []);
 
   if (isLoading) {

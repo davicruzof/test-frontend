@@ -1,5 +1,5 @@
 "use client";
-import { getCharacters } from "@/services/marvel/marvel";
+import { getCharacters } from "@/services/marvel";
 import { ResponseCharacters } from "@/services/marvel/types";
 import { useContext, useEffect } from "react";
 import { useMutation } from "react-query";

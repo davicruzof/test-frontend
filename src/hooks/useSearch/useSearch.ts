@@ -1,6 +1,6 @@
 "use client";
 import { filterEmptyInfos } from "./../useMarvel/util";
-import { getCharactersByName } from "@/services/marvel/marvel";
+import { getCharactersByName } from "@/services/marvel";
 import { useContext, useEffect } from "react";
 import { useMutation } from "react-query";
 import { useSearchProps, useSearchReturn } from "./type";

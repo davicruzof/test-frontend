@@ -1,6 +1,6 @@
 "use client";
 import { useContext } from "react";
-import { rangeLimit } from "@/services/marvel/marvel";
+import { rangeLimit } from "@/services/marvel";
 import CardCharacter from "@/components/CardCharacter";
 import { Search } from "@/components/Search";
 import useMarvel from "@/hooks/useMarvel/useMarvel";

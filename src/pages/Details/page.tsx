@@ -4,7 +4,7 @@ import { useRouter as useNav, useSearchParams } from "next/navigation";
 import { useMutation } from "react-query";
 import { ResponseCharacters } from "@/services/marvel/types";
 import { filterEmptyInfos } from "@/hooks/useMarvel/util";
-import { getCharacterById } from "@/services/marvel/marvel";
+import { getCharacterById } from "@/services/marvel";
 
 export default function Details() {
   const navigation = useNav();
