@@ -1,16 +1,14 @@
 # Meus Beats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/davicruzof/test-front-end?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/test-front-end?style=for-the-badge)
-![Language Primary](https://img.shields.io/github/languages/top/davicruzof/test-front-end?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/davicruzof/test-frontend?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/davicruzof/testfront-end?style=for-the-badge)
+![Language Primary](https://img.shields.io/github/languages/top/davicruzof/test-frontend?style=for-the-badge)
 ![Npm version](https://img.shields.io/npm/v/node?style=for-the-badge)
 
-
+<img src="https://github.com/davicruzof/test-frontend/assets/47984117/0feac912-e12a-446c-bc9a-bf110a28c3a0" alt="exemplo imagem">
 ![screencapture-localhost-3000-pages-Details-2023-07-30-11_40_55](https://github.com/davicruzof/test-frontend/assets/47984117/6264673e-0e78-4ca3-bcda-ad9035c8590e)
 
-<img src="https://github.com/davicruzof/test-frontend/assets/47984117/0feac912-e12a-446c-bc9a-bf110a28c3a0" alt="exemplo imagem">
-
-> O projeto consiste no desenvolvimento de um ecommerce mobile de produtos fonográficos.
+> O projeto consiste no desenvolvimento de um projeto usando nextjs, typescript e a api da marvel.
 
 ## 💻 Pré-requisitos
 
