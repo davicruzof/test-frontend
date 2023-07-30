@@ -29,12 +29,12 @@ a {
   text-decoration: none;
 }
 
-.css-k5nfr0-MuiButtonBase-root-MuiPaginationItem-root {
+.css-k5nfr0-MuiButtonBase-root-MuiPaginationItem-root,.css-1fkjyw3 {
   color: #fff !important;
   border: 1px solid var(--marvel-red) !important;
 }
 
-.css-k5nfr0-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+.css-k5nfr0-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected, .css-1fkjyw3.Mui-selected {
   background-color: var(--marvel-red) !important;
   border: 1px solid var(--marvel-red) !important;
 }
